@@ -1,3 +1,4 @@
+
 Tu napisalem kutas 2 // Piotrek
 
 <<<<<<< HEAD
@@ -7,5 +8,10 @@ A tu jeszcze przed œci¹gniêciem innej wersji // Piotrek
  ||
  ||
 O  O
+<<<<<<< HEAD
 >>>>>>> origin/Piotrek
 iouubiuoiygoiug 
+=======
+
+// Pushnowa³em i w miedzy czasie  pisa³êm to
+>>>>>>> origin/Karol
